@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    margin: 1;
+    padding-bottom : 10px;
+    border-bottom : rgb(150, 149, 149) 1px solid;
+    color : navy;
+}
+h2{
+    text-align: center;
+    padding-bottom : 10px;
+    border-bottom : rgb(150, 149, 149) 1px solid;
+    color : navy;
+}
+
+h3{
+    color : navy;
+}
